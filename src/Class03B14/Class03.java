@@ -8,6 +8,8 @@ System.out.println("Day 3 of git ! Let's get it! ");
 
 System.out.println("This is a change in my project");
 
+System.out.println("Thid time editing so third commit :) ");
+
 	}
 
 }
